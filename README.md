@@ -7,3 +7,8 @@
 - Extracted 16 security-aware URL features
 - Trained Random Forest and XGBoost models
 - Evaluated baseline performance
+## Progress 3: Hybrid CNN-Based Detection
+- Implemented character-level CNN
+- Combined CNN embeddings with handcrafted features
+- Achieved ~98% accuracy
+- Built real-time URL risk prediction system
